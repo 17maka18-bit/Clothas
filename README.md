@@ -48,4 +48,4 @@ This project is for educational and personal practice.
 
 ---
 
-Made with ❤️ using HTML & CSS.# Clothas
+Made with love using HTML & CSS.# Clothas
